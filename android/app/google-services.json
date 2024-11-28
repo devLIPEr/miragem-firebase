@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874810574550",
+    "project_id": "miragem-43f6d",
+    "storage_bucket": "miragem-43f6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874810574550:android:66baff3a2c38f55763ab77",
+        "android_client_info": {
+          "package_name": "com.example.miragem_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdiceIl6AX0SduATmXUNuplSCaF4zKx1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
